@@ -1,0 +1,5 @@
+age = int(input())
+if age<13:
+    print("you")
+    else:
+        print("me")
